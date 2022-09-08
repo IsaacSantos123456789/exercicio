@@ -1,0 +1,2 @@
+um src de um exercicio em react
+o exercicio é uma tentativa de recriar o aplicativo da netflix
